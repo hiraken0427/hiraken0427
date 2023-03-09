@@ -1,10 +1,17 @@
-C language or Python3
+# やぁ
 
-https://twitter.com/hiraken0427
+音楽が好きな野生のプログラマ
 
-https://twitter.com/Pomegranate1770
+* Pythonをメインで書いてるよ！
+* ちょっとだけC言語ができるよ！
 
-<!---
-hiraken0427/hiraken0427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+Programmer who loves music.
+
+Mainly Python with a little bit of C.
+
+---
+
+My twitter: [twitter.com](https://twitter.com/hiraken0427)
+<a href="https://www.twitter.com/hiraken0427"><img align="right" alt="twitter" src="https://img.shields.io/twitter/follow/hiraken0427?style=social"></a>
