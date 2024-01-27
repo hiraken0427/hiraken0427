@@ -13,5 +13,5 @@ Mainly Python with a little bit of C.
 
 ---
 
-My twitter: [twitter.com](https://twitter.com/hiraken0427)
+My X(twitter): [X.com](https://twitter.com/hiraken0427)
 <a href="https://www.twitter.com/hiraken0427"><img align="right" alt="twitter" src="https://img.shields.io/twitter/follow/hiraken0427?style=social"></a>
