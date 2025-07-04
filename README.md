@@ -2,14 +2,17 @@
 
 ベースとプログラミングの人
 
-* 最近はPythonをメインで書いてるよ！
-* ちょっとだけC言語ができるよ！
+* 最近はC言語をメインで書いてるよ！
+* ちょっとだけPythonができるよ！
+* 自作のプログラミング言語を作成中だよ！
 
 ---
 
 Programmer who loves music.
 
 Mainly Python with a little bit of C.
+
+Lately, creating my own programming language.
 
 ---
 
