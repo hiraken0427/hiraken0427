@@ -1,0 +1,38 @@
+name: Github-Generate-3D-Contribution-Graph
+
+on:
+    schedule:
+        - cron: "20 * * * *"
+    workflow_dispatch:
+    push:
+        branches:
+            - main
+
+concurrency:
+    group: profile-readme-push
+    cancel-in-progress: false
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        name: Generate 3D Contribution Graph
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                  token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+                  fetch-depth: 0
+            - uses: yoshi389111/github-profile-3d-contrib@fd54cf20784ed9a86dc7be48bb5eb1f74e92b4f8 # 0.7.1
+              env:
+                  GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+                  USERNAME: ${{ github.repository_owner }}
+            - name: Commit & Push
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  git add -A
+                  git diff --cached --quiet && exit 0
+                  git commit -m "generated"
+                  git pull --rebase origin main
+                  git push

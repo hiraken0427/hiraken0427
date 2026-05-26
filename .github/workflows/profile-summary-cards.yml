@@ -1,0 +1,27 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+    schedule:
+        - cron: '20 * * * *'
+    workflow_dispatch:
+    push:
+        branches:
+            - main
+
+concurrency:
+    group: profile-readme-push
+    cancel-in-progress: false
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        name: generate
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v4
+            - uses: vn7n24fzkq/github-profile-summary-cards@974577f1823715ca047e9976548634816a3a0264 # release
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              with:
+                  USERNAME: ${{ github.repository_owner }}
