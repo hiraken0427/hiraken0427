@@ -14,18 +14,15 @@ Here are some ideas to get you started:
 -->
 # Hello, World!
 
-## 🎸 About Me
-
-- ベースとプログラミングの人<br>
-Programmer who loves bass and programming.
-
-- 主に **C / C++** を書いてるよ<br>
-Mainly writing **C / C++**.
-
+## About Me
+- Originally from Yokohama, Kanagawa, Japan <br>
+- Chuo Univ. Yokohama High (focused on STEM, Class of '22) <br>
+- Bachelor of Science in Electrical, Electronic & Communication Engineering from Chuo Univ. ('26) <br>
+- Currently working as an automotive embedded software engineer <br>
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 #### Main Languages
 
@@ -34,23 +31,17 @@ C, C++, Japanese
   <img src="https://skillicons.dev/icons?i=c,cpp" >&ensp;<img src="./japanese.svg" width="48" height="48" />
 </p>
 
----
-
 #### Secondary Languages
 C#, Python
 <p>
   <img src="https://skillicons.dev/icons?i=cs,python" />
 </p>
 
----
-
 #### Embedded / Systems
-Arduino, Linux, Git, Bash
+Linux, Git, Bash
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,linux,git,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,git,bash" />
 </p>
-
----
 
 #### Development Environment
 Windows 11, macOS, Ubuntu
@@ -60,7 +51,7 @@ Windows 11, macOS, Ubuntu
 
 ---
 
-### 📈 GitHub Stats 1
+### GitHub Stats 1
 
 <p align="center">
   <img width="730" src="https://raw.githubusercontent.com/hiraken0427/hiraken0427/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
@@ -76,7 +67,7 @@ Windows 11, macOS, Ubuntu
 </p>
 
 ---
-### 📈 GitHub Stats 2
+### GitHub Stats 2
 
 <p align="center" >
 	<picture>
@@ -89,10 +80,10 @@ Windows 11, macOS, Ubuntu
 
 ---
 
-### 🌐 Links
+### Links
 
-[𝕏 (Twitter)](https://x.com/shiliustone)
-<a href="https://www.twitter.com/shiliustone"><img align="right" alt="twitter" src="https://img.shields.io/twitter/follow/shiliustone?style=social"></a>
+[𝕏 (Twitter)](https://x.com/hiraken_bass)
+<a href="https://www.twitter.com/hiraken_bass"><img align="right" alt="twitter" src="https://img.shields.io/twitter/follow/hiraken_bass?style=social"></a>
 [Qiita](https://qiita.com/hiraken0427)
 <a href="https://qiita.com/hiraken0427"><img align="right" alt="qiita" src="https://badgen.org/img/qiita/hiraken0427/contributions?style=plastic"></a>
 
