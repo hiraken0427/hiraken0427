@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 - Chuo Univ. Yokohama High (focused on STEM, Class of '22) <br>
 - Bachelor of Science in Electrical, Electronic & Communication Engineering from Chuo Univ. ('26) <br>
 - Currently working as an automotive embedded software engineer <br>
+- I’m a big fan of PC games and music, especially bass and music production. <br>
 
 ---
 
 ### Tech Stack
 
 #### Main Languages
-
 C, C++, Japanese
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp" >&ensp;<img src="./japanese.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" />&ensp;<img src="./japanese.svg" width="48" height="48" />
 </p>
 
 #### Secondary Languages
@@ -51,7 +51,7 @@ Windows 11, macOS, Ubuntu
 
 ---
 
-### GitHub Stats 1
+### GitHub Stats
 
 <p align="center">
   <img width="730" src="https://raw.githubusercontent.com/hiraken0427/hiraken0427/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
@@ -66,17 +66,13 @@ Windows 11, macOS, Ubuntu
   <img width="360" src="https://raw.githubusercontent.com/hiraken0427/hiraken0427/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
----
-### GitHub Stats 2
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="730" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="730" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
-	</picture>
-</p>　
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width="730" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="730" />
+    <img alt="github profile contributions chart" src="profile-3d-contrib/profile-season-animate.svg" width="730" />
+  </picture>
+</p>
 
 ---
 
